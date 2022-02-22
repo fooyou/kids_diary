@@ -7,4 +7,4 @@
 
 ## 开始上学了
 
-* [2022-02-22-幼儿园是去呢还是去呢](./data/2022-02-22-sadly-kindergarten.md)
+* [2022-02-22-幼儿园是去呢还是去呢](./date/2022-02-22-sadly-kindergarten.md)
