@@ -6,7 +6,7 @@ tags: 露台 玩水
 date: 2020-05-24 10:08:39
 published: true
 summary: 带小朵玩水
-image: 'https://img.51miz.com/preview/element/00/01/09/64/E-1096456-19DDA0FB.jpg'
+cover: 'https://img.51miz.com/preview/element/00/01/09/64/E-1096456-19DDA0FB.jpg'
 comment: false
 ---
 

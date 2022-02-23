@@ -6,7 +6,7 @@ tags: 叫板
 date: 2021-07-03 10:08:39
 published: true
 summary: 和妈妈叫板！
-image: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.QCeme2naBe0wJSaonV0NQAHaKe?pid=ImgDet&rs=1'
+cover: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.QCeme2naBe0wJSaonV0NQAHaKe?pid=ImgDet&rs=1'
 comment: false
 ---
 

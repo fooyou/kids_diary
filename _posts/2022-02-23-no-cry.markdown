@@ -6,7 +6,7 @@ tags: 幼儿园
 date: 2022-02-22 08:08:39
 published: true
 summary: 还是哭了！
-image: 'https://www.ykjsxy.net/uploads/allimg/2020/12/jaMbYr.jpg'
+cover: 'https://www.ykjsxy.net/uploads/allimg/2020/12/jaMbYr.jpg'
 comment: false
 ---
 

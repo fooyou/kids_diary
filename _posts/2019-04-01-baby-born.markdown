@@ -6,7 +6,7 @@ tags: 出生
 date: 2019-04-01 10:08:39
 published: true
 summary: 宝宝出生了!
-image: 'http://clipart-library.com/img/1513760.jpg'
+cover: 'http://clipart-library.com/img/1513760.jpg'
 comment: false
 ---
 
