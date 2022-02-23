@@ -29,6 +29,13 @@ nightMode: true
 disqus: false
 disqus_url: '' # 'https://meshinestar.disqus.com/embed.js'
 
+# remember replace your own
+valine:
+  enable: true
+  appid: IKF81ooGffepvVjURqOBLliN-gzGzoHsz
+  appkey: RhPXAiqNqNvQw29VWgokWjHm
+  placeholder: ""
+
 # Share
 social-share: true
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
