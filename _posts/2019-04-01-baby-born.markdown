@@ -3,14 +3,14 @@ layout: post
 title: 欢迎来到地球来到我家——刘曼朵
 category: Document
 tags: 出生
-date: 2019-04-01 10:08:39
+date: 2019-04-01 19:50:39
 published: true
 summary: 宝宝出生了!
 cover: 'https://img95.699pic.com/photo/40019/0546.jpg_wh860.jpg'
 comment: false
 ---
 
-我家闺女出生了！
+我家闺女出生了！顺产！六斤六两！
 
 ![图一：咦！真丑！]({{ site.baseurl }}/image/baby/20220222-193305.jpeg)
 
@@ -19,3 +19,8 @@ comment: false
 > 俗话说：女大十八变！
 
 等着看吧！
+
+大山说羊水破了，我赶紧订票往回赶，可惜没赶上闺女出生！等我到了医院小家伙正躺床上呼呼呢！
+
+还好我表妹当时在医院，可帮了大忙了，感恩！
+
