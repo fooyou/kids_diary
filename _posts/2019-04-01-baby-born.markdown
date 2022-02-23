@@ -12,7 +12,7 @@ comment: false
 
 我家闺女出生了！
 
-![图一：咦！真丑！](/image/baby/20220222-193305.jpeg)
+![图一：咦！真丑！]({{ site.baseurl }}/image/baby/20220222-193305.jpeg)
 
 咦！真丑！
 
