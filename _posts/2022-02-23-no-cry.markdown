@@ -1,6 +1,14 @@
-# 第二天上学，哭？没哭？
-
-*2022-02-23 08:02:43*
+---
+layout: post
+title: 第二天上学，哭？没哭？
+category: Document
+tags: 幼儿园
+date: 2022-02-22 08:08:39
+published: true
+summary: 还是哭了！
+image: 'https://www.ykjsxy.net/uploads/allimg/2020/12/jaMbYr.jpg'
+comment: false
+---
 
 今天早上小朵很开心，只是眼睛昨天哭肿了，今天变单眼皮了。大山一喊她去幼儿园就跟着去了，我一看这状态不错啊，应该不会哭吧！
 

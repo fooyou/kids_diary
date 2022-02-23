@@ -1,6 +1,14 @@
-# 今天开始上幼儿园了
-
-*2022-02-22*
+---
+layout: post
+title: 今天开始上幼儿园了
+category: Document
+tags: 幼儿园
+date: 2022-02-22 10:08:39
+published: true
+summary: 上幼儿园了
+image: 'https://img.zcool.cn/community/01c8045875e632a801219c773a4f20.jpg@3000w_1l_0o_100sh.jpg'
+comment: false
+---
 
 昨天大山（我媳妇）带着小朵去看了楼下的幼儿园，在自己家楼下接送孩子方面，不管多少钱了，就先选这了。
 
@@ -12,7 +20,7 @@
 
 看小家伙下午放学后的表现吧，明天打赌看她哭不哭！
 
-![图一：幼儿园吃饭的小朵](../image/kindergarden/20220222_1545580.jpg)
+![图一：幼儿园吃饭的小朵](/image/kindergarden/20220222_1545580.jpg)
 
 
 下午大山接回了小朵，视频一看眼睛都肿了，问她：“闺女怎么哭了呀？”，小朵想了一会儿才回答：“我也不知道啊！”
