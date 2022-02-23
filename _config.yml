@@ -5,7 +5,7 @@ keyword: '曼朵成长日记, 成长日记'
 url: 'http://fooyou.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
-baseurl: ''
+baseurl: '/kids_diary/'
 
 # Navigation links
 nav:
@@ -13,9 +13,9 @@ nav:
   tags: '/tags.html'
 
 # Author 配置博主信息
-author: '刘朝圳'
+author: '刘曼朵'
 nickname: 'KangDaddy'
-email: 'liuchaozhen@me.com'
+email: 'liuelu@icloud.com'
 bio: '快乐成长 | 开开心心 | 还得学习'
 avatar: '/assets/img/profile.jpg'
 
