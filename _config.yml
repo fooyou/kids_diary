@@ -2,10 +2,10 @@
 title: '曼朵成长日记'
 description: '记住美好时光'
 keyword: '曼朵成长日记, 成长日记'
-url: 'http://fooyou.github.io' # your host
+url: 'http://fooyou.github.io/kids_diary/' # your host
 
 # if you don't need baseurl, you should leave this value blank.
-baseurl: '/kids_diary/'
+baseurl: ''
 
 # Navigation links
 nav:
