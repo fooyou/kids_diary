@@ -1,11 +1,14 @@
 {% unless site.disqus %}
 {% if site.valine.enable %}
-<script src='https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js'></script>
+<script src='//cdn1.lncld.net/static/js/3.0.4/av-min.js'></script>
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
 <script>
-    new Valine({
-        el: "#comments",
-        app_id: '{{ site.valine.appid }}',
-        app_key: '{{ site.valine.appkey }}',
+    var valine = new Valine();
+    valine.init({
+        el: "#comment",
+        appId: '{{ site.valine.appid }}',
+        appKey: '{{ site.valine.appkey }}',
+        path: '{{ page.url | relative_url }}'
         placeholder: '{{ site.valine.placeholder }}'
     });
 </script>
