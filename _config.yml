@@ -65,6 +65,3 @@ RSS: false
 # Plugins
 plugins: [jekyll-paginate]
 
-# date format
-minima:
-  date_format: "%Y年%m月%d日 %a"

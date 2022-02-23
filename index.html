@@ -43,7 +43,7 @@ header-img: "/assets/img/bg.jpg"
                             {% endfor %}
                         {% endif %}
                     </div>
-                    <time class="post-date" datetime="{{ post.date | date:"%y-%m-%d" }}">{{ post.date }}</time>
+                    <time class="post-date" datetime="{{ post.date | date:"%y-%m-%d" }}">{{ post.date | date: "%Y年%m月%d日 %a" }}</time>
                 </footer>
             </article>
         {% endfor %}
