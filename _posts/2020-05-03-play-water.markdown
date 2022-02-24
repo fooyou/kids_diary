@@ -16,7 +16,7 @@ comment: true
 
 一开始玩水还看看我，看我让不让她玩，见我没有制止，就开心的玩起来了！
 
-<video controls="" autoplay="" style="width: 100%">
+<video controls="" autoplay="" width="410px">
     <source src="http://v.xiaohongshu.com/01e216fe1663c40d018370037f29d151b0_259.mp4?sign=7f4715c8f311a83b05435f9e0d5bcc0c&amp;t=6218fd00" type="video/mp4">
 </video>
 
