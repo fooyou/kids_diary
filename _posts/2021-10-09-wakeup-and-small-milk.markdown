@@ -14,5 +14,5 @@ comment: true
 
 早上小朵刚睡醒，没多长时间就开始：“妈妈，我要喝‘小奶’”。不知道奶粉和纯牛奶哪个好，反正从小朵断奶开始就没怎么喝过奶粉，断奶的时候，给她订了十二罐奶粉，到现在为止只喝了一罐。
 
-<video autoplay="" controls="" width="410px" src="http://v.xiaohongshu.com/3c3e0f1a4640a17566abb74a83ba353f9efc088e_r_ln?sign=07599c29baa0a5bc076f450b45dd0e0d&t=6218fd00"></video>
+<video autoplay="" controls="" width="380px" src="http://v.xiaohongshu.com/3c3e0f1a4640a17566abb74a83ba353f9efc088e_r_ln?sign=07599c29baa0a5bc076f450b45dd0e0d&t=6218fd00"></video>
 

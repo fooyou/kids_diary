@@ -17,7 +17,7 @@ comment: true
 <!-- 垃圾优酷
 <iframe width='100%' src='https://player.youku.com/embed/XNTg0NDU0MTUwOA==' frameborder=0></iframe>
 -->
-<video controls="" autoplay="" width="410px">
+<video controls="" autoplay="" width="380px">
     <source src="http://v.xiaohongshu.com/01e2170f1063cdd5018370037f2a13137a_259.mp4?sign=e68dab51cff51d1ddc8525963e3b586c&t=6218fd00" type="video/mp4">
 </video>
 
