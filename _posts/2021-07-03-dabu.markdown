@@ -16,6 +16,12 @@ comment: false
 
 视频非常有意思，等我找个视频网站嵌入之后就可以看到了。
 
+<video controls="" autoplay="" name="media">
+    <source src="http://v.xiaohongshu.com/01e217026f63cad2018370037f29e20adf_259.mp4?sign=9f23c641b48b73f09a24bca9262fedaa&t=6218fd00" type="video/mp4">
+</video>
+
+<!-- 垃圾优酷
 <iframe id="video" width='100%' src='https://player.youku.com/embed/XNTg0NTA0Nzc2NA==' frameborder=0></iframe>
+-->
 
 小朵挨打了之后的表情和动作太萌了，有点皮又有点叫板又能缓和，总之很有意思，小家伙的情商肯定高！
