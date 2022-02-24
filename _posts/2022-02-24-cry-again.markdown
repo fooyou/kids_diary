@@ -28,18 +28,18 @@ comment: true
 
 但看老师发的视频，小朵在妈妈离开后表现很好嘛，自己吃饭吃饼（还别说，三角饼看着不错，我都有点想吃了）
 
-<video preload="metadata" width="380px" src="http://v.xiaohongshu.com/01e217389c63e1fb010370037f2ab53c3c_259.mp4?sign=060e73c1cbee29400cb6141398dce263&t=6218fd00"></video>
+<video controls preload="metadata" width="380px" src="http://v.xiaohongshu.com/01e217389c63e1fb010370037f2ab53c3c_259.mp4?sign=060e73c1cbee29400cb6141398dce263&t=6218fd00"></video>
 
 *视频一： 吃饭喽*
 
 自己堆完积木后还拿给老师看，好让老师夸夸。那为啥和妈妈拜拜的时候为啥稀里哗啦的呀？！
 
-<video preload="metadata" width="380px" src="http://v.xiaohongshu.com/01e21738ce63e6d9018370037f2ab623b6_259.mp4?sign=66ff523193def713fe4ff6ece2434667&t=6218fd00"></video>
+<video controls preload="metadata" width="380px" src="http://v.xiaohongshu.com/01e21738ce63e6d9018370037f2ab623b6_259.mp4?sign=66ff523193def713fe4ff6ece2434667&t=6218fd00"></video>
 
 *视频二：看我堆个塔*
 
 中午午休的时候，老师给拍了个视频，小家伙融入学校生活很快么，都知道问老师问题了！
 
-<video preload="metadata" width="380px" src="http://v.xiaohongshu.com/01e21758a463c0fc018370037f2b327f7f_259.mp4?sign=9afa3b06be431dbd7220ba7f263a942f&t=6218fd00"></video>
+<video controls preload="metadata" width="380px" src="http://v.xiaohongshu.com/01e21758a463c0fc018370037f2b327f7f_259.mp4?sign=9afa3b06be431dbd7220ba7f263a942f&t=6218fd00"></video>
 
 *视频三：老师我有个问题*
