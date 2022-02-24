@@ -1,0 +1,15 @@
+---
+layout: post
+title: 测试 github pages 是否只能编译今天之前的
+category: Document
+tags: test
+date: 2022-02-24 17:02:02
+published: true
+summary: 
+cover: 
+comment: true
+---
+
+
+测试一下，为啥今天的日记无法发布
+
