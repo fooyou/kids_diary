@@ -28,7 +28,7 @@ comment: true
 
 但看老师发的视频，小朵在妈妈离开后表现很好嘛，自己吃饭吃饼（还别说，三角饼看着不错，我都有点想吃了）
 
-<video data-v-1cd84dd5="" poster="//ci.xiaohongshu.com/37025416-0df3-2985-699b-e2a6745057f4?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e217389c63e1fb010370037f2ab53c3c_259.mp4?sign=060e73c1cbee29400cb6141398dce263&amp;t=6218fd00" controls="controls" objectfit="contain" class="videocontent"></video>
+<video poster="//ci.xiaohongshu.com/37025416-0df3-2985-699b-e2a6745057f4?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e217389c63e1fb010370037f2ab53c3c_259.mp4?sign=060e73c1cbee29400cb6141398dce263&amp;t=6218fd00" controls="controls" objectfit="contain" width="380px"></video>
 <!--
 <video controls preload="metadata" width="380px" src="http://v.xiaohongshu.com/01e217389c63e1fb010370037f2ab53c3c_259.mp4?sign=060e73c1cbee29400cb6141398dce263&t=6218fd00"></video>
 -->
@@ -37,7 +37,7 @@ comment: true
 
 自己堆完积木后还拿给老师看，好让老师夸夸。那为啥和妈妈拜拜的时候为啥稀里哗啦的呀？！
 
-<video data-v-1cd84dd5="" poster="//ci.xiaohongshu.com/935d3fa9-0636-ebd3-6cc3-d5e368107f91?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e21738ce63e6d9018370037f2ab623b6_259.mp4?sign=66ff523193def713fe4ff6ece2434667&amp;t=6218fd00" controls="controls" objectfit="contain" class="videocontent"></video>
+<video poster="//ci.xiaohongshu.com/935d3fa9-0636-ebd3-6cc3-d5e368107f91?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e21738ce63e6d9018370037f2ab623b6_259.mp4?sign=66ff523193def713fe4ff6ece2434667&amp;t=6218fd00" controls="controls" objectfit="contain" width="380px"></video>
 <!--
 <video controls preload="metadata" width="380px" src="http://v.xiaohongshu.com/01e21738ce63e6d9018370037f2ab623b6_259.mp4?sign=66ff523193def713fe4ff6ece2434667&t=6218fd00"></video>
 -->
@@ -46,7 +46,7 @@ comment: true
 
 中午午休的时候，老师给拍了个视频，小家伙融入学校生活很快么，都知道问老师问题了！
 
-<video data-v-1cd84dd5="" poster="//ci.xiaohongshu.com/05f53eb5-b3db-e6c2-bbbf-d6175a3b9138?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e21758a463c0fc018370037f2b327f7f_259.mp4?sign=9afa3b06be431dbd7220ba7f263a942f&amp;t=6218fd00" controls="controls" objectfit="contain" class="videocontent"></video>
+<video poster="//ci.xiaohongshu.com/05f53eb5-b3db-e6c2-bbbf-d6175a3b9138?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e21758a463c0fc018370037f2b327f7f_259.mp4?sign=9afa3b06be431dbd7220ba7f263a942f&amp;t=6218fd00" controls="controls" objectfit="contain" width="380px"></video>
 <!--
 <video controls preload="metadata" width="380px" src="http://v.xiaohongshu.com/01e21758a463c0fc018370037f2b327f7f_259.mp4?sign=9afa3b06be431dbd7220ba7f263a942f&t=6218fd00"></video>
 -->
