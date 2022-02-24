@@ -16,7 +16,8 @@ comment: false
 
 视频非常有意思，等我找个视频网站嵌入之后就可以看到了。
 
-<video controls="" autoplay="" width="380px">
+
+<video controls="controls" poster="http://ci.xiaohongshu.com/spectrum/95cddff7af08ccd008bb7aa56316d1baec66cb7d" width="380px">
     <source src="http://v.xiaohongshu.com/01e217026f63cad2018370037f29e20adf_259.mp4?sign=9f23c641b48b73f09a24bca9262fedaa&t=6218fd00" type="video/mp4">
 </video>
 

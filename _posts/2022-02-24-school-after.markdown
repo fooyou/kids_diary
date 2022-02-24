@@ -16,23 +16,13 @@ comment: true
 
 <video poster="//ci.xiaohongshu.com/d20eb015-4eef-d118-069e-b130c12e3414?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e217475f63e58d018370037f2aefbc1e_259.mp4?sign=06a1d6e07bc835acbb4d898da7b41749&amp;t=6218fd00" controls="controls" objectfit="contain" width="380px"></video>
 
-<!--
-<video controls preload="auto" width="380px" src="http://v.xiaohongshu.com/01e217475f63e58d018370037f2aefbc1e_259.mp4?sign=06a1d6e07bc835acbb4d898da7b41749&t=6218fd00"></video>
--->
-
 发课本了，老师布置了小朵人生第一次的家庭作业：
 
 > 开学第一课：《不要妈妈抱》认识“鸟”，“早”，“叫”，“园”四个字
 
 <video poster="//ci.xiaohongshu.com/a1b5732b-113f-3342-78ca-ddd0c3ffde94?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e21758d563cd78018370037f2b33348c_259.mp4?sign=b04d93e6647d2c23d956615223564569&amp;t=6218fd00" controls="controls" objectfit="contain" width="380px"></video>
-<!--
-<video controls preload="auto" width="380px" src="http://v.xiaohongshu.com/01e21758d563cd78018370037f2b33348c_259.mp4?sign=b04d93e6647d2c23d956615223564569&t=6218fd00"></video>
--->
 
 小孩子的记忆力很好，一会儿就会了！
 
 <video poster="//ci.xiaohongshu.com/454fd782-baa9-8ddb-f605-cda5092ed0b7?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e2176aae63eaac018370037f2b78f137_259.mp4?sign=a76cbc2440d2ed984e98ab4c88f7098f&amp;t=6218fd00" controls="controls" objectfit="contain" width="380px"></video>
-<!--
-<video controls preload="auto" width="380px" src="http://v.xiaohongshu.com/01e2176aae63eaac018370037f2b78f137_259.mp4?sign=a76cbc2440d2ed984e98ab4c88f7098f&t=6218fd00"></video>
--->
 

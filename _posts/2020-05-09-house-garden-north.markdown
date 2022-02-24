@@ -12,4 +12,4 @@ comment: true
 
 大山又买了些绿植，都有什么？有一个好像叫什么佛珠，还有……，算了，反正挺好看的！
 
-<video controls="" autoplay="" width="380px" src="http://v.xiaohongshu.com/01e217442c63d690018370037f2ae27ebe_259.mp4?sign=76e80e8469e9ae76aa55635e207b96b7&t=6218fd00"></video>
+<video data-v-1cd84dd5="" poster="//ci.xiaohongshu.com/3df9e595-5358-c3d0-d25a-1dbeada3d4e5?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e217442c63d690018370037f2ae27ebe_259.mp4?sign=82e7d8fd88f37589f19f9d38f6a73aeb&amp;t=621a4e80" controls="controls" objectfit="contain" class="videocontent"></video>

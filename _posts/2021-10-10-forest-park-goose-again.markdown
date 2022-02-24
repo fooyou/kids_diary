@@ -14,4 +14,4 @@ comment: true
 
 所以再次来到池塘边喂鹅，我已经没有了前天的新奇感，小朵仍然乐此不疲！
 
-<video autoplay="" controls="" width="380px" src="http://v.xiaohongshu.com/462e9e213be9aef3d1a1e3f1450ffdf85da40fe8_r_ln?sign=e4c8b28f0d0612fa7055d6e3c8a7dd74&t=6218fd00"></video>
+<video data-v-1cd84dd5="" poster="//ci.xiaohongshu.com/a5aa224c-2c5e-a9c5-c350-b6cac7258a4e?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/462e9e213be9aef3d1a1e3f1450ffdf85da40fe8_r_ln?sign=1df19cdc8dfb8d57322f44a6fd175cbe&amp;t=621a4e80" controls="controls" objectfit="contain" width="380px"></video>
