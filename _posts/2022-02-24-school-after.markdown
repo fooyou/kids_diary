@@ -14,7 +14,7 @@ comment: true
 
 幼儿园老师夸小朵表现很好，大山接她的时候小脸仰着很自信的等妈妈夸奖
 
-<video controls="" autoplay="" width="380px" src="http://v.xiaohongshu.com/01e217475f63e58d018370037f2aefbc1e_259.mp4?sign=06a1d6e07bc835acbb4d898da7b41749&t=6218fd00"></video>
+<video controls="" autoplay="false" preload="metadata" width="380px" src="http://v.xiaohongshu.com/01e217475f63e58d018370037f2aefbc1e_259.mp4?sign=06a1d6e07bc835acbb4d898da7b41749&t=6218fd00"></video>
 
 发课本了，老师布置了小朵人生第一次的家庭作业：
 
@@ -24,4 +24,4 @@ comment: true
 认识“鸟”，“早”，“叫”，“圆”四个字
 ```
 
-<video controls="" autoplay="" width="380px" src="http://v.xiaohongshu.com/01e21758d563cd78018370037f2b33348c_259.mp4?sign=b04d93e6647d2c23d956615223564569&t=6218fd00"></video>
+<video controls="" autoplay="false" preload="metadata" width="380px" src="http://v.xiaohongshu.com/01e21758d563cd78018370037f2b33348c_259.mp4?sign=b04d93e6647d2c23d956615223564569&t=6218fd00"></video>
