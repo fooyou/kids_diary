@@ -34,3 +34,8 @@ comment: true
 
 <video controls="" autoplay="" width="380px" src="http://v.xiaohongshu.com/01e21738ce63e6d9018370037f2ab623b6_259.mp4?sign=66ff523193def713fe4ff6ece2434667&t=6218fd00"></video>
 
+
+中午午休的时候，老师给拍了个视频，小家伙融入学校生活很快么，都知道问老师问题了！
+
+
+<video controls="" autoplay="" width="380px" src="http://v.xiaohongshu.com/01e21758a463c0fc018370037f2b327f7f_259.mp4?sign=9afa3b06be431dbd7220ba7f263a942f&t=6218fd00"></video>

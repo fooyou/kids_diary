@@ -10,6 +10,18 @@ cover: https://thumbs.dreamstime.com/b/%E6%8B%BF%E7%9D%80%E6%B0%94%E7%90%83%E7%9
 comment: true
 ---
 
-小朵放学了，今天第三天了，表现越来越好！妈妈奖励场景率气球一个！
+小朵放学了，今天第三天了，表现越来越好！妈妈奖励长颈鹿气球一个！
+
+幼儿园老师夸小朵表现很好，大山接她的时候小脸仰着很自信的等妈妈夸奖
 
 <video controls="" autoplay="" width="380px" src="http://v.xiaohongshu.com/01e217475f63e58d018370037f2aefbc1e_259.mp4?sign=06a1d6e07bc835acbb4d898da7b41749&t=6218fd00"></video>
+
+发课本了，老师布置了小朵人生第一次的家庭作业：
+
+```text
+开学第一课：《不要妈妈抱》
+
+认识“鸟”，“早”，“叫”，“圆”四个字
+```
+
+<video controls="" autoplay="" width="380px" src="http://v.xiaohongshu.com/01e21758d563cd78018370037f2b33348c_259.mp4?sign=b04d93e6647d2c23d956615223564569&t=6218fd00"></video>
