@@ -6,7 +6,7 @@ tags: 玩伴
 date: 2021-10-08 21:02:13
 published: true
 summary: 明天第一城附近邮件西北餐厅，今天带小朵去吃饭，碰到了个维吾尔小朋友。
-cover: 
+cover: https://img95.699pic.com/element/40139/3697.png_860.png
 comment: true
 ---
 
