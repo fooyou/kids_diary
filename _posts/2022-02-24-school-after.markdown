@@ -21,7 +21,12 @@ comment: true
 ```text
 开学第一课：《不要妈妈抱》
 
-认识“鸟”，“早”，“叫”，“圆”四个字
+认识“鸟”，“早”，“叫”，“园”四个字
 ```
 
 <video controls="" autoplay="false" preload="metadata" width="380px" src="http://v.xiaohongshu.com/01e21758d563cd78018370037f2b33348c_259.mp4?sign=b04d93e6647d2c23d956615223564569&t=6218fd00"></video>
+
+小孩子的记忆力很好，一会儿就会了！
+
+<video controls="" autoplay="false" preload="metadata" width="380px" src="http://v.xiaohongshu.com/01e2176aae63eaac018370037f2b78f137_259.mp4?sign=a76cbc2440d2ed984e98ab4c88f7098f&t=6218fd00"></video>
+
