@@ -6,7 +6,7 @@ tags: 露台 绿植
 date: 2020-05-07 16:02:21
 published: true
 summary: 家里有两个我很喜欢的楼台，可惜了不会绿植，幸亏有大山
-cover: http://v.xiaohongshu.com/01e2173e78638e70018370037f2acc3616_259.mp4?sign=9d7a84491d5720e98b351918a3224ae0&t=6218fd00
+cover: http://v.xiaohongshu.com/01e217419d63a9bd018370037f2ad86ecf_259.mp4?sign=7887e50c4355a4619f9ac42b3c9ab268&amp;t=621a4e80
 comment: true
 ---
 
