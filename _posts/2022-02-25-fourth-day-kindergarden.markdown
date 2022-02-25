@@ -40,9 +40,31 @@ comment: true
 
 就这么小朵愉快的走进了幼儿园，大山高兴的立马跟我视频说了这事，小朵今天太棒了！
 
-第四天上幼儿园，没哭！开心。
+第四天上幼儿园，没哭！开心!
+
+<video poster="//ci.xiaohongshu.com/5bc1b339-c94d-02ff-595f-157ea60e19ac?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e218b9d363fabb010370037f309664f2_259.mp4?sign=57a94d79fffd26fda9dc1213efa29e28&amp;t=621a4e80" controls="controls" objectfit="contain" width="380px"></video>
+
+*在吃午餐*
+
+午餐还是不错的，比在家吃的种类多！
+
+<video poster="//ci.xiaohongshu.com/b055f58d-6451-7b26-b0a5-89fc6cb3f54c?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e218ba2563c795010370037f30983422_259.mp4?sign=3a0096c23d9a122a57d2b8e23d463d3c&amp;t=621a4e80" controls="controls" objectfit="contain" width="380px"></video>
+
+*有小朋友分享自己的糖果了*
+
+该放学了，去接小朵了！
 
 ![小朵的叫小脚丫](https://www.xiaohongshu.com/discovery/item/62189728000000000102ffef)
+
+大山说看到了小朵的小脚丫了!
+
+放学后妈妈给炒的莲藕，小朵竟然吃完了，还吃了个鸡蛋，喝了一包奶。
+
+<video poster="//ci.xiaohongshu.com/92e6c218-22e6-91ba-9046-54a23cf8c4ba?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e218ba5063cccd018370037f30981b3d_259.mp4?sign=9348ec9bf9891f5a9833370fde387bb0&amp;t=621a4e80" controls="controls" objectfit="contain" width="380px"></video>
+
+上学几天饭量见长啊！
+
+---
 
 今天大山做产检，四维彩超有点异常，右侧侧脑室宽10.8mm，大夫说有脑积水的可能性！大山心情肯定不好，但我觉得应该没什么问题，去濮阳复查一下吧！
 
