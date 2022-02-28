@@ -16,6 +16,10 @@ comment: true
 
 一开始玩水还看看我，看我让不让她玩，见我没有制止，就开心的玩起来了！
 
+<!--
 <video data-v-1cd84dd5="" poster="//ci.xiaohongshu.com/906de938-1eeb-e8a7-68ea-cc61dc1bf5c8?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e216fe1663c40d018370037f29d151b0_259.mp4?sign=b2e3fc917e113c7976008d8a4eae89a8&amp;t=621a4e80" controls="controls" objectfit="contain" width="380px"></video>
+-->
+
+[![露台玩水](//ci.xiaohongshu.com/906de938-1eeb-e8a7-68ea-cc61dc1bf5c8?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/6216fe15000000000102dd4f)
 
 大爱小红书 video 标签嵌入，无广告！<鄙视优酷>

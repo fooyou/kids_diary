@@ -20,7 +20,11 @@ comment: false
 
 今天交了学费，发了书包，多少钱来的，忘了！一个月六百？七百？八百？
 
+<!--
 <video data-v-1cd84dd5="" poster="//ci.xiaohongshu.com/6a5b81dc-2a1d-8931-6b9b-2407e9a197e8?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e2173842638d02018370037f2ab40b89_259.mp4?sign=a73fc6d8313e51dea477e5c4d932281d&amp;t=621a4e80" controls="controls" objectfit="contain" width="380px"></video>
+-->
+
+[![发书包了](//ci.xiaohongshu.com/6a5b81dc-2a1d-8931-6b9b-2407e9a197e8?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/621738420000000001028d72)
 
 晚上睡觉的时候，大山问小朵：“你上学的时候想妈妈不？”
 

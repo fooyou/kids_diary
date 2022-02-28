@@ -14,7 +14,11 @@ comment: true
 
 早上小朵刚睡醒，没多长时间就开始：“妈妈，我要喝‘小奶’”。不知道奶粉和纯牛奶哪个好，反正从小朵断奶开始就没怎么喝过奶粉，断奶的时候，给她订了十二罐奶粉，到现在为止只喝了一罐。
 
+<!--
 <video data-v-1cd84dd5="" poster="//ci.xiaohongshu.com/432de174-4786-f2b7-ad57-20d8703966ce?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/3c3e0f1a4640a17566abb74a83ba353f9efc088e_r_ln?sign=4861a0cb3067260806075775bf77b23a&amp;t=621a4e80" controls="controls" objectfit="contain" width="380px"></video>
+-->
+
+[![早上起床喝小奶](//ci.xiaohongshu.com/432de174-4786-f2b7-ad57-20d8703966ce?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/6160d6a1000000002103f5a2)
 
 PS: 大山勘误：
 

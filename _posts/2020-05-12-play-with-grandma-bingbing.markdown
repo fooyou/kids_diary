@@ -12,7 +12,11 @@ comment: true
 
 今天太阳真好，奶奶和冰冰姐姐来了，拿着我的小水桶，推着我的小车，还有泡泡气出去撒欢喽！
 
+<!--
 <video poster="//ci.xiaohongshu.com/119dd7e8-2217-b728-cac0-824c1ccebe23?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e218e83b63d233018370037f314bdf34_259.mp4?sign=964a7f12040d12d15549074f92f8a224&amp;t=621a4e80" controls="controls" objectfit="contain" width="380px"></video>
+-->
+
+[![假小子玩沙子](//ci.xiaohongshu.com/119dd7e8-2217-b728-cac0-824c1ccebe23?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/6218e83a00000000210377b1)
 
 ![冰冰二姐姐](https://ci.xiaohongshu.com/75d3eea0-b08d-3b3a-b029-70d0c59b71aa?imageView2/2/w/1080/format/jpg)
 

@@ -18,7 +18,11 @@ comment: false
 
 中午老师发了个小朵吃饭的视频，看样子还不错，吃的挺欢实的。大山中午给小朵送被子，老师说吃完饭后在怀里睡着了。
 
+<!--
 <video data-v-1cd84dd5="" poster="//ci.xiaohongshu.com/937cb1de-4ac8-3901-7940-3e826b4dceb8?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e2173e26638357010370037f2acae7a3_259.mp4?sign=7f92e1316bf5eed3a9100a8bcf99e5fa&amp;t=621a4e80" controls="controls" objectfit="contain" width="380px"></video>
+-->
+
+[![我不想上幼儿园](//ci.xiaohongshu.com/937cb1de-4ac8-3901-7940-3e826b4dceb8?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/62173e25000000000102a906)
 
 看小家伙下午放学后的表现吧，明天打赌看她哭不哭！
 
@@ -26,7 +30,11 @@ comment: false
 ![图一：幼儿园吃饭的小朵]({{ site.baseurl }}/image/kindergarden/20220222_1545580.jpg)
 -->
 
+<!--
 <video data-v-1cd84dd5="" poster="//ci.xiaohongshu.com/00358683-654c-973f-664a-8539d30cc64d?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e2173e78638e70018370037f2acc3616_259.mp4?sign=d2aab00bc073ce57259a70affe78d6af&amp;t=621a4e80" controls="controls" objectfit="contain" width="380px"></video>
+-->
+
+[![午餐开吃](//ci.xiaohongshu.com/00358683-654c-973f-664a-8539d30cc64d?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/62173e78000000002103b472)
 
 下午大山接回了小朵，视频一看眼睛都肿了，问她：“闺女怎么哭了呀？”，小朵想了一会儿才回答：“我也不知道啊！”
 

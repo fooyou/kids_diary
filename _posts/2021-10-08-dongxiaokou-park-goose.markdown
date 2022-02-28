@@ -26,7 +26,11 @@ comment: true
 
 小时候，家里养过好些个鸡鸭，踩狗屎鸡粪的“乐趣”，现在的小孩很难体会到了！
 
+<!--
 <video data-v-1cd84dd5="" poster="//ci.xiaohongshu.com/7f0d5b01-e9f4-477f-9484-5c5a3f5d202b?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/3d12bfcd8ef39f4d709289e9992d8b0aad8dd585_r_ln?sign=8b10880129f14510ea782b1dbba964de&amp;t=621a4e80" controls="controls" objectfit="contain" width="380px"></video>
+-->
+
+[![东小口森林公园的大鹅](//ci.xiaohongshu.com/7f0d5b01-e9f4-477f-9484-5c5a3f5d202b?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/616019fe0000000001024bbe)
 
 小朵很喜欢大鹅，亲近自然不知道有什么好处，但真能让人心情舒畅！
 
