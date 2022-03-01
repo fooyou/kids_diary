@@ -44,17 +44,21 @@ comment: true
 
 <!--
 <video poster="//ci.xiaohongshu.com/5bc1b339-c94d-02ff-595f-157ea60e19ac?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e218b9d363fabb010370037f309664f2_259.mp4?sign=57a94d79fffd26fda9dc1213efa29e28&amp;t=621a4e80" controls="controls" objectfit="contain" width="380px"></video>
--->
 
 [![在吃午餐](//ci.xiaohongshu.com/5bc1b339-c94d-02ff-595f-157ea60e19ac?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/6218b9d2000000002103a75f)
+-->
+
+[![在吃午餐](//ci.xiaohongshu.com/5bc1b339-c94d-02ff-595f-157ea60e19ac?imageView2/2/w/1080/format/jpg)](http://xhslink.com/YWXu4f)
 
 午餐还是不错的，比在家吃的种类多！
 
 <!--
 <video poster="//ci.xiaohongshu.com/b055f58d-6451-7b26-b0a5-89fc6cb3f54c?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e218ba2563c795010370037f30983422_259.mp4?sign=3a0096c23d9a122a57d2b8e23d463d3c&amp;t=621a4e80" controls="controls" objectfit="contain" width="380px"></video>
--->
 
 [![有小朋友分享自己的糖果了](//ci.xiaohongshu.com/b055f58d-6451-7b26-b0a5-89fc6cb3f54c?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/6218ba2400000000210345f7)
+-->
+
+[![有小朋友分享自己的糖果了](//ci.xiaohongshu.com/b055f58d-6451-7b26-b0a5-89fc6cb3f54c?imageView2/2/w/1080/format/jpg)](http://xhslink.com/OaUu4f)
 
 该放学了，去接小朵了！
 
@@ -66,9 +70,10 @@ comment: true
 
 <!--
 <video poster="//ci.xiaohongshu.com/92e6c218-22e6-91ba-9046-54a23cf8c4ba?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e218ba5063cccd018370037f30981b3d_259.mp4?sign=9348ec9bf9891f5a9833370fde387bb0&amp;t=621a4e80" controls="controls" objectfit="contain" width="380px"></video>
--->
 
 [![炒莲藕好吃](//ci.xiaohongshu.com/92e6c218-22e6-91ba-9046-54a23cf8c4ba?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/6218ba4f0000000001024adf)
+-->
+[![炒莲藕好吃](//ci.xiaohongshu.com/92e6c218-22e6-91ba-9046-54a23cf8c4ba?imageView2/2/w/1080/format/jpg)](http://xhslink.com/80Fu4f)
 
 上学几天饭量见长啊！
 
