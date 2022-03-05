@@ -20,7 +20,7 @@ comment: true
 
 [![早上上学正常化了](//ci.xiaohongshu.com/8678e67a-c27e-b293-44f6-3877e79f62ad?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/622360da000000000102e20c)
 
-<video data-v-1cd84dd5="" poster="//ci.xiaohongshu.com/8678e67a-c27e-b293-44f6-3877e79f62ad?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e22360da638359018370037f5a34c7af_259.mp4?sign=2f6107634f76316d937803a9c32f7d3d&amp;t=6224da80" controls="controls" objectfit="contain" class="videocontent"></video>
+<video poster="//ci.xiaohongshu.com/8678e67a-c27e-b293-44f6-3877e79f62ad?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e22360da638359018370037f5a34c7af_259.mp4?sign=2f6107634f76316d937803a9c32f7d3d&amp;t=6224da80" controls="controls" objectfit="contain" width="380px"></video>
 
 上午，大山挺着大肚子去换驾照，以前需要到市里，现在在县城就可以倒是很方便了。怀孕、感冒，所以好几天没好好洗脸，然后照了个全素颜的照片！`^_^`
 
