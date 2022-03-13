@@ -120,11 +120,14 @@
 </script>
 <script>
     (function() {
-        var video_dct = {{ site.data.video }}
         var tags = document.getElementsByClassName("xhs_video");
         for (var i = 0; i < tags.length; ++i) {
             xhsid = tags[i].getAttribute('src');
-            tags[i].setAttribute('src', video_dct[xhsid]);
+            {% for item in site.data.video %}
+                if (xhsid == {{ item.name }}) {
+                    tags[i].setAttribute('src', {{ item.value }});
+                }
+            {% endfor %}
         }
     });
 </script>

@@ -5,7 +5,7 @@
 @author: Joshua Liu
 @email: liuchaozhen@haier.com
 @create: 2022-03-13 15:03:55
-@update: 2022-03-13 18:03:09
+@update: 2022-03-13 18:03:02
 @desc: 爬取小红书视频的 <video>标签地址
 """
 import re
@@ -35,9 +35,9 @@ regex = r'"video":{(.*?)}'
 patten = re.compile(regex)
 session = requests.Session()
 
-def get_video_url(video_json):
-    for idx in video_json.keys():
-        url = base_url.format(idx)
+def get_video_url(items):
+    for i, item in enumerate(items):
+        url = base_url.format(item["name"])
         response = session.get(url, headers=headers)
         if response.status_code != 200:
             print(response.status_code)
@@ -45,28 +45,28 @@ def get_video_url(video_json):
         matches = patten.findall(response.text)
         if matches:
             content = "{%s}" % matches[0]
-            item = json.loads(content)
-            video_json[idx] = item.get("url")
-            print(idx, item.get("igeneratedText"))
-    return video_json
+            obj = json.loads(content)
+            item["value"] = obj.get("url")
+            print(item)
+    return items
 
 
-def read_video_json(path):
+def read_json(path):
     with open(path, encoding="utf-8") as f:
-        video_json = json.load(f)
-    return video_json
+        items = json.load(f)
+    return items
 
 
-def write_video_json(path, video_json):
+def write_json(path, items):
     with open(path, "w", encoding="utf-8") as f:
-        json.dump(video_json, f, indent=4)
+        json.dump(items, f, indent=4)
 
 
 def main():
-    video_json_path = "../../_data/video.json"
-    video_json = read_video_json(video_json_path)
-    video_json = get_video_url(video_json)
-    write_video_json(video_json_path, video_json)
+    data_path = "../../_data/video.json"
+    items = read_json(data_path)
+    items = get_video_url(items)
+    write_json(data_path, items)
 
 
 if __name__ == "__main__":
