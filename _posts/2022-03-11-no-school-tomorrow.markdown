@@ -18,11 +18,15 @@ comment: true
 
 [![放学喽！妈妈给我买了小艾](//ci.xiaohongshu.com/890af6f2-6d0b-9fc0-af89-abaa04bcc8a6?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/622d963300000000210361d7)
 
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/890af6f2-6d0b-9fc0-af89-abaa04bcc8a6?imageView2/2/w/1080/format/jpg" src="622d963300000000210361d7"></video>
+
 不过小朵竟然主动要看书学习，挺出乎我意料的，那么小的孩子怎么可能爱学习呢？！可大山说小朵真的主动要求要看书复习，看一页让大山给讲一页。
 
 闺女，等长大了可别厌学啊！
 
 [![爱学习](//ci.xiaohongshu.com/9cb9a228-9e80-f36e-7623-e5b6c31e9e2b?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/622d9662000000000102a318)
+
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/9cb9a228-9e80-f36e-7623-e5b6c31e9e2b?imageView2/2/w/1080/format/jpg" src="622d9662000000000102a318"></video>
 
 ---
 

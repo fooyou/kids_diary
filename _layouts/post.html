@@ -119,6 +119,18 @@
     });
 </script>
 <script>
+    /**
+     * 更新小红书视频网址
+     */
+    $.getJSON('../video.json').done(function(video_dct) {
+        var tags = document.getElementsByClassName("xhs_video");
+        for (var i = 0; i < tags.length; ++i) {
+            xhsid = tags[i].getAttribute('src');
+            tags[i].setAttribute('src', video_dct[xhsid]);
+        }
+    });
+</script>
+<script>
 /**
 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
