@@ -125,7 +125,7 @@
             xhsid = tags[i].getAttribute('src');
             {% for item in site.data.video %}
                 if (xhsid == '{{ item.name }}') {
-                    tags[i].setAttribute('src', {{ item.value }});
+                    tags[i].setAttribute('src', '{{ item.value }}');
                 }
             {% endfor %}
         }
