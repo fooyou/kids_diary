@@ -17,10 +17,10 @@ comment: true
 哪知道小朵无师自通深得打雪仗的精髓！
 
 <!--
-<video poster="//ci.xiaohongshu.com/0eceb0cd-7065-b3f0-991c-55b0f9cdeaa3?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e218f24a63dc54018370037f3172d87f_259.mp4?sign=9801979370e66df9899d537f470d7498&amp;t=621a4e80" controls="controls" objectfit="contain" width="380px"></video>
+[![打雪仗](//ci.xiaohongshu.com/0eceb0cd-7065-b3f0-991c-55b0f9cdeaa3?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/6218f24a000000002103d909)
 -->
 
-[![打雪仗](//ci.xiaohongshu.com/0eceb0cd-7065-b3f0-991c-55b0f9cdeaa3?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/6218f24a000000002103d909)
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/0eceb0cd-7065-b3f0-991c-55b0f9cdeaa3?imageView2/2/w/1080/format/jpg" src="6218f24a000000002103d909"></video>
 
 ---
 

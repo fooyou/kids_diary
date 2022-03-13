@@ -22,16 +22,35 @@ comment: true
 
 估计等熟悉了就好了！
 
+<!--
 [![我今天上学不太开心](//ci.xiaohongshu.com/c412675c-7709-0bb4-064a-eef8f91c8138?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/621f649a000000000102554d)
+-->
 
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/c412675c-7709-0bb4-064a-eef8f91c8138?imageView2/2/w/1080/format/jpg" src="621f649a000000000102554d"></video>
 
+<!--
 [![老师喂我吃饭](//ci.xiaohongshu.com/92144592-33d1-01d4-4697-3c8bccc43717?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/621f64ba000000002103e53a)
+-->
 
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/92144592-33d1-01d4-4697-3c8bccc43717?imageView2/2/w/1080/format/jpg" src="621f64ba000000002103e53a"></video>
+
+<!--
 [![小朋友和我玩](//ci.xiaohongshu.com/ad42e62d-d830-e0f4-65a3-396129e076a8?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/621f64d7000000000102d846)
+-->
 
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/ad42e62d-d830-e0f4-65a3-396129e076a8?imageView2/2/w/1080/format/jpg" src="621f64d7000000000102d846"></video>
+
+<!--
 [![自己动手玩](//ci.xiaohongshu.com/2e4e8cfc-ff02-70cc-2616-8aeccb689ca9?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/621f64f5000000002103e772)
+-->
 
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/2e4e8cfc-ff02-70cc-2616-8aeccb689ca9?imageView2/2/w/1080/format/jpg" src="621f64f5000000002103e772"></video>
+
+<!--
 [![你们跳吧我不爱动](//ci.xiaohongshu.com/b3df6c3a-8823-1f9a-4804-7958da5f6afa?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/621f652a00000000010287af)
+-->
+
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/b3df6c3a-8823-1f9a-4804-7958da5f6afa?imageView2/2/w/1080/format/jpg" src="621f652a00000000010287af"></video>
 
 ---
 

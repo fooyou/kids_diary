@@ -16,7 +16,7 @@ comment: true
 [![幼儿园滑滑梯](//ci.xiaohongshu.com/a47d7947-0e58-60e2-ddbc-c2873cc0ab07?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/622c1c1c0000000001027f38)
 -->
 
-<video data-v-1cd84dd5="" poster="//ci.xiaohongshu.com/a47d7947-0e58-60e2-ddbc-c2873cc0ab07?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e22c1c1c63d9c9018370037f7c4e041f_259.mp4?sign=bd90baeae43e7fa52dccb8e36f843a87&amp;t=622e1500" controls="controls" objectfit="contain" width="380px"></video>
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/a47d7947-0e58-60e2-ddbc-c2873cc0ab07?imageView2/2/w/1080/format/jpg" src="622c1c1c0000000001027f38"></video>
 
 下午放学的时候，大山说小朵非常气人😡，气的她肚子都发紧了。<难道不是你气性大？！>
 

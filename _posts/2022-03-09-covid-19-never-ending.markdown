@@ -26,4 +26,4 @@ comment: true
 [![课业舞蹈](//ci.xiaohongshu.com/e9a05970-bd61-6221-8407-8532e6f2e069?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/622c19200000000021035238)
 -->
 
-<video data-v-1cd84dd5="" poster="//ci.xiaohongshu.com/e9a05970-bd61-6221-8407-8532e6f2e069?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e22c19206385d0018370037f7c436133_259.mp4?sign=ecf4497ac1bc4cd5c125ed5b1ac8405b&amp;t=622e1500" controls="controls" objectfit="contain" width="380px"></video>
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/e9a05970-bd61-6221-8407-8532e6f2e069?imageView2/2/w/1080/format/jpg" src="622c19200000000021035238"></video>

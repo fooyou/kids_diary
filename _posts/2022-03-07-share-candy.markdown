@@ -20,15 +20,27 @@ comment: true
 
 小朵有时候中午不睡觉，今天可能心情好，总之睡的很好。
 
+<!--
 [![幼儿园午休](//ci.xiaohongshu.com/e4c2a1ab-94e0-3f77-7609-efa1fdf44ba2?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/622bed65000000000102e4ce)
+-->
+
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/e4c2a1ab-94e0-3f77-7609-efa1fdf44ba2?imageView2/2/w/1080/format/jpg" src="622bed65000000000102e4ce"></video>
 
 小朵期待已久的分享糖果活动开始了，反正我小时候肯定舍不得，看我朵的表现。
 
+<!--
 [![分享糖果了](//ci.xiaohongshu.com/4d64b745-7408-8991-0fff-a9b196fed663?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/62260e47000000002103af0f)
+-->
+
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/4d64b745-7408-8991-0fff-a9b196fed663?imageView2/2/w/1080/format/jpg" src="62260e47000000002103af0f"></video>
 
 放学了，小朵非常高兴，大山带她吃了薯条和汉堡。今天小朵的表现非常好。
 
+<!--
 [![吃个汉堡](//ci.xiaohongshu.com/44fac123-6dad-1e9d-9126-0379cccf0d4e?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/62260e6d000000000102a8b1)
+-->
+
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/44fac123-6dad-1e9d-9126-0379cccf0d4e?imageView2/2/w/1080/format/jpg" src="62260e6d000000000102a8b1"></video>
 
 晚上，小朵回到家，书包里还剩一块糖，小朵说这是给妈妈的。我问小朵给老师分享没？小朵说分享了，小朵真棒！
 

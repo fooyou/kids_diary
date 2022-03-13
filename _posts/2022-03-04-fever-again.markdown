@@ -18,9 +18,12 @@ comment: true
 
 早上小朵上过学越累越顺了，背着小书包，蹦蹦跳跳的去上学了！
 
+<!--
 [![早上上学正常化了](//ci.xiaohongshu.com/8678e67a-c27e-b293-44f6-3877e79f62ad?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/622360da000000000102e20c)
+-->
 
-<video poster="//ci.xiaohongshu.com/8678e67a-c27e-b293-44f6-3877e79f62ad?imageView2/2/w/1080/format/jpg" src="http://v.xiaohongshu.com/01e22360da638359018370037f5a34c7af_259.mp4?sign=2f6107634f76316d937803a9c32f7d3d&amp;t=6224da80" controls="controls" objectfit="contain" width="380px"></video>
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/8678e67a-c27e-b293-44f6-3877e79f62ad?imageView2/2/w/1080/format/jpg" src="622360da000000000102e20c"></video>
+
 
 上午，大山挺着大肚子去换驾照，以前需要到市里，现在在县城就可以倒是很方便了。怀孕、感冒，所以好几天没好好洗脸，然后照了个全素颜的照片！`^_^`
 
@@ -30,7 +33,11 @@ comment: true
 
 大山一看不好就开溜，害的小朵还掉了几滴眼泪。
 
+<!--
 [![老师我要找妈妈](//ci.xiaohongshu.com/ca08661c-e082-d880-b400-a3b24feadb3d?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/6222f8f8000000000102f982)
+-->
+
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/ca08661c-e082-d880-b400-a3b24feadb3d?imageView2/2/w/1080/format/jpg" src="6222f8f8000000000102f982"></video>
 
 ---
 
@@ -38,5 +45,9 @@ comment: true
 
 但是，哈哈，但是，小朵有家庭作业，哈哈哈哈！
 
+<!--
 [![家庭作业](//ci.xiaohongshu.com/c8d1965f-f8a7-02b2-92fb-5e95f72c84da?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/6222f95f00000000010248e6)
+-->
+
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/c8d1965f-f8a7-02b2-92fb-5e95f72c84da?imageView2/2/w/1080/format/jpg" src="6222f95f00000000010248e6"></video>
 

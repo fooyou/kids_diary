@@ -16,10 +16,18 @@ comment: true
 
 估计晚上八点得醒吧，到时候再让她喊爸爸！`^_^`
 
+<!--
 [![六点就睡着了](//ci.xiaohongshu.com/afcb0309-3bea-6e45-5d52-e500c5702356?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/621dfa360000000021035a7b)
+-->
+
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/afcb0309-3bea-6e45-5d52-e500c5702356?imageView2/2/w/1080/format/jpg" src="621dfa360000000021035a7b"></video>
 
 睡了一个小时，还没到八点就醒了，然后一个劲得哭！小朵感冒了心情不好！
 
 中午活动的时候在抠鼻子:
 
+<!--
 [![小朵在抠鼻子](//ci.xiaohongshu.com/f26ae86e-35fb-8c36-0a20-10d4298135b6?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/621dfa0b0000000001025ec2)
+-->
+
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/f26ae86e-35fb-8c36-0a20-10d4298135b6?imageView2/2/w/1080/format/jpg" src="621dfa0b0000000001025ec2"></video>
