@@ -119,7 +119,8 @@
     });
 </script>
 <script>
-    $.getJSON('../../../../../video.json').done(function(video_dct) {
+    (function() {
+        var video_dct = {{ site.data.video }}
         var tags = document.getElementsByClassName("xhs_video");
         for (var i = 0; i < tags.length; ++i) {
             xhsid = tags[i].getAttribute('src');

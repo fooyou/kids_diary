@@ -5,7 +5,7 @@
 @author: Joshua Liu
 @email: liuchaozhen@haier.com
 @create: 2022-03-13 15:03:55
-@update: 2022-03-13 16:03:46
+@update: 2022-03-13 18:03:09
 @desc: 爬取小红书视频的 <video>标签地址
 """
 import re
@@ -31,11 +31,9 @@ headers = {
 }
 
 base_url = "https://www.xiaohongshu.com/discovery/item/{}"
-
-session = requests.Session()
-
 regex = r'"video":{(.*?)}'
 patten = re.compile(regex)
+session = requests.Session()
 
 def get_video_url(video_json):
     for idx in video_json.keys():
@@ -65,7 +63,7 @@ def write_video_json(path, video_json):
 
 
 def main():
-    video_json_path = "../../video.json"
+    video_json_path = "../../_data/video.json"
     video_json = read_video_json(video_json_path)
     video_json = get_video_url(video_json)
     write_video_json(video_json_path, video_json)
