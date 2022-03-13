@@ -16,5 +16,5 @@ comment: true
 [![又买了些绿植](//ci.xiaohongshu.com/29f723c0-63d1-44b0-5497-c6290fe4523b?imageView2/2/w/1080/format/jpg)](https://www.xiaohongshu.com/discovery/item/6217442c0000000021039b09)
 -->
 
-<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/29f723c0-63d1-44b0-5497-c6290fe4523b?imageView2/2/w/1080/format/jpg" src="6217442c0000000021039b09"></video>
+<video class="xhs_video" controls="controls" objectfit="contain" width="380px" poster="//ci.xiaohongshu.com/3df9e595-5358-c3d0-d25a-1dbeada3d4e5?imageView2/2/w/1080/format/jpg" src="6217442c0000000021039b09"></video>
 
