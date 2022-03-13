@@ -119,10 +119,7 @@
     });
 </script>
 <script>
-    /**
-     * 更新小红书视频网址
-     */
-    $.getJSON('../video.json').done(function(video_dct) {
+    $.getJSON('../../video.json').done(function(video_dct) {
         var tags = document.getElementsByClassName("xhs_video");
         for (var i = 0; i < tags.length; ++i) {
             xhsid = tags[i].getAttribute('src');
