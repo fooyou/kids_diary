@@ -5,14 +5,14 @@
 @author: Joshua Liu
 @email: liuchaozhen@haier.com
 @create: 2022-03-13 15:03:55
-@update: 2022-03-23 14:03:38
+@update: 2022-03-25 20:03:09
 @desc: 爬取小红书视频的 <video>标签地址
 """
 import re
 import json
 import requests
 
-cookie = 'xhsTrackerId=b6201c54-c340-47ab-c75d-735fdaee0ee6; customerClientId=893568014906763; xhsTracker=url=noteDetail&xhsshare=CopyLink; smidV2=20220228190953cacbedd0b3bafe2b144a50f644868f84001dad92a8fe92410; extra_exp_ids=supervision_exp,supervision_v2_exp,commentshow_clt1,gif_clt1,ques_clt2; timestamp2=20220323aacf02b07ee68714aa4f6e9b; timestamp2.sig=tl-8Bf0TqmF_YYTOuzg3EBQNcxsDgUQelbk4oHOCrk8; customerBeakerSessionId=96a48e89fef71ad1f3f1be2d48111e9e352c9110gAJ9cQAoWBAAAABjdXN0b21lclVzZXJUeXBlcQFLAVgOAAAAX2NyZWF0aW9uX3RpbWVxAkdB2I6wdEG6XlgJAAAAYXV0aFRva2VucQNYQQAAADZlMTA5NGRjNzFjMjQxY2I5ZjRjZjk4ZjRmYzFjZTJhLWExNjgzZGQ1MDY3ZjQxZjU4MjUyZDFkMDQwMjIwZTVhcQRYAwAAAF9pZHEFWCAAAABmNTRkOWE5NDFiYmI0MTYzYjEyOTBlODhmYTdjMDI4Y3EGWA4AAABfYWNjZXNzZWRfdGltZXEHR0HYjrB0QbpeWAYAAAB1c2VySWRxCFgYAAAANjE1ZmY4YTUwMDAwMDAwMDAyMDI1MmZjcQl1Lg==; galaxy.creator.beaker.session.id=1648017873099052025511'
+cookie = 'xhsTrackerId=b6201c54-c340-47ab-c75d-735fdaee0ee6; customerClientId=893568014906763; xhsTracker=url=noteDetail&xhsshare=CopyLink; smidV2=20220228190953cacbedd0b3bafe2b144a50f644868f84001dad92a8fe92410; timestamp2=20220323aacf02b07ee68714aa4f6e9b; timestamp2.sig=tl-8Bf0TqmF_YYTOuzg3EBQNcxsDgUQelbk4oHOCrk8; galaxy.creator.beaker.session.id=1648017873099052025511; extra_exp_ids=supervision_exp,supervision_v2_exp,commentshow_clt1,gif_clt1,ques_clt2'
 
 headers = {
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
