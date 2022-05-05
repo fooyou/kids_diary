@@ -12,7 +12,7 @@ import re
 import json
 import requests
 
-cookie = 'xhsTrackerId=b6201c54-c340-47ab-c75d-735fdaee0ee6; customerClientId=893568014906763; xhsTracker=url=noteDetail&xhsshare=CopyLink; smidV2=20220228190953cacbedd0b3bafe2b144a50f644868f84001dad92a8fe92410; timestamp2=20220323aacf02b07ee68714aa4f6e9b; timestamp2.sig=tl-8Bf0TqmF_YYTOuzg3EBQNcxsDgUQelbk4oHOCrk8; galaxy.creator.beaker.session.id=1648017873099052025511; extra_exp_ids=supervision_exp,supervision_v2_exp,commentshow_clt1,gif_clt1,ques_clt2'
+cookie = 'customerBeakerSessionId=c96633ff9c6e3799687953284ec5b07b6592044cgAJ9cQAoWBAAAABjdXN0b21lclVzZXJUeXBlcQFLAVgOAAAAX2NyZWF0aW9uX3RpbWVxAkdB2JzUvcBR7FgJAAAAYXV0aFRva2VucQNYQQAAADljOWUxNmYzZGUwZjQ0ZDY5NWE2NjNhY2JlOTgyYzRmLTllM2Y3ZTBhMDhhODQyOWZiYjc2OTkwNWVkNzZkZTU4cQRYAwAAAF9pZHEFWCAAAAAyOTUwMGY1ZTQ1NDc0ZjU1YWZiYzZlZThhNzE0ODFkY3EGWA4AAABfYWNjZXNzZWRfdGltZXEHR0HYnNS9wFHsWAYAAAB1c2VySWRxCFgYAAAANjE1ZmY4YTUwMDAwMDAwMDAyMDI1MmZjcQl1Lg==; galaxy.creator.beaker.session.id=1651725047147002311700; timestamp2=202205052f2e95548c76323ce86c05e1; timestamp2.sig=gw4JS0usObbTQO6vVErZSbmRjhqPidyjvyUng1wv1VY; extra_exp_ids=recommend_comment_hide_clt1,recommend_comment_hide_v2_origin,supervision_exp,supervision_v2_exp,commentshow_exp1,gif_clt1,ques_exp1; customerClientId=575790338971065; xhsuid=9jqYOEgcmSHKKOvA; xhsTrackerId=0249a0ce-10a8-4842-c870-ef6286b84721'
 
 headers = {
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
